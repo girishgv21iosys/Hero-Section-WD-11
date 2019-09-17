@@ -53,10 +53,9 @@ button:hover {
 }
 @media (min-width: 1600px) {
   body {
-    padding: 5rem 20rem;
-    align-items: center;
-    justify-content: center;
     max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 @media (max-width: 840px) {
